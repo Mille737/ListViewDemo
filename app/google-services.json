@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187311618853",
+    "firebase_url": "https://mynotebook-53715.firebaseio.com",
+    "project_id": "mynotebook-53715",
+    "storage_bucket": "mynotebook-53715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187311618853:android:27606535209fd8fb1d78cc",
+        "android_client_info": {
+          "package_name": "com.example.listviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187311618853-0n1troa12vdp3uj3tsnkorjbk0uahqva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4iGVs9Zpbs4jG6x2sFFOycx0KJonDaOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187311618853-0n1troa12vdp3uj3tsnkorjbk0uahqva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187311618853-qj441shc65dbtu2r06ku6q1ia5hd8qrk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MyNotebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
